@@ -3,8 +3,7 @@ import ExpenceItem from "./components/Component1"
 function App(){
     return(
         <div>
-            <h2>lets get started</h2>
-            <p>this is roshan</p>
+            <h2 className="letsgetstarted">lets get started</h2>
             <ExpenceItem></ExpenceItem>
         </div>
 
